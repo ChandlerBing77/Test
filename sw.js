@@ -1,7 +1,7 @@
 // Service Worker - Spese Familiari PWA
 const CACHE_NAME = 'spese-familiari-v1';
 const ASSETS = [
-  './spese-familiari.html',
+  './index.html',
   './manifest.json'
 ];
 
